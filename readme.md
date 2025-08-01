@@ -5,23 +5,20 @@ Trilha HTML** da plataforma DIO (Digital Innovation One). O objetivo principal f
 semântico e CSS para melhorar a acessibilidade e a apresentação visual do conteúdo.
 
 <div style="display: flex; justify-content: left; align-items: center; width: 100%; padding: 10px;">
-            <div class="logo" style="margin-right:40px;">
+            <div class="logo" style="margin-right:40px;">   
                 <picture>
-                    <source srcset="assets/images/logo.png" type="image/png" width="50px"/>
                     <img alt="Logo da Wikipedia, um planeta feito de quebra cabeças com diversos símbolos em cada peça"
-                         src="assets/images/logo.png"/>
+                         src="assets/images/logo.png"/ width="50px">
                 </picture>
             </div>
-            <div class="logo-text" style="margin-left: -40px;">
+            <div class="logo-text" style="margin-left: -40px; display: flex; flex-direction: column;">
                 <picture>
-                    <source srcset="assets/images/Wikipedia_texto.svg" type="image/svg" width="30px"/>
                     <img alt="Texto da Wikipedia, escrito em letras minúsculas com a letra 'W' estilizada"
-                         src="assets/images/Wikipedia_texto.svg"/>
+                         src="assets/images/Wikipedia_texto.svg" width="100px"/>
                 </picture>
-                <picture>
-                    <source srcset="assets/images/Wikipedia_subtitulo.svg" type="image/svg" width="30px"/>
+                <picture style="margin-top: -10px;">
                     <img alt="Subtítulo da Wikipedia, A enciclopédia Livre"
-                         src="assets/images/Wikipedia_subtitulo.svg"/>
+                         src="assets/images/Wikipedia_subtitulo.svg" width="100px"/>
                 </picture>
             </div>
 </div>
