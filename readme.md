@@ -14,12 +14,12 @@ semântico e CSS para melhorar a acessibilidade e a apresentação visual do con
             </div>
             <div class="logo-text" style="margin-left: -40px;">
                 <picture>
-                    <source srcset="assets/images/Wikipedia_texto.svg" type="image/svg" width="50px"/>
+                    <source srcset="assets/images/Wikipedia_texto.svg" type="image/svg" width="30px"/>
                     <img alt="Texto da Wikipedia, escrito em letras minúsculas com a letra 'W' estilizada"
                          src="assets/images/Wikipedia_texto.svg"/>
                 </picture>
                 <picture>
-                    <source srcset="assets/images/Wikipedia_subtitulo.svg" type="image/svg" width="50px"/>
+                    <source srcset="assets/images/Wikipedia_subtitulo.svg" type="image/svg" width="30px"/>
                     <img alt="Subtítulo da Wikipedia, A enciclopédia Livre"
                          src="assets/images/Wikipedia_subtitulo.svg"/>
                 </picture>
