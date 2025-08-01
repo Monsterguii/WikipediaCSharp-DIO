@@ -4,22 +4,22 @@ Este projeto é uma recriação da Wikipedia com um layout aprimorado, desenvolv
 Trilha HTML** da plataforma DIO (Digital Innovation One). O objetivo principal foi aplicar conceitos avançados de HTML
 semântico e CSS para melhorar a acessibilidade e a apresentação visual do conteúdo.
 
-<div style="display: flex; justify-content: left; align-items: center; width: 40%; padding: 10px;">
-            <div class="logo">
+<div style="display: flex; justify-content: left; align-items: center; width: 100%; padding: 10px;">
+            <div class="logo" style="margin-right:40px;">
                 <picture>
-                    <source srcset="assets/images/logo.png" type="image/png" width="50%"/>
+                    <source srcset="assets/images/logo.png" type="image/png" width="50px"/>
                     <img alt="Logo da Wikipedia, um planeta feito de quebra cabeças com diversos símbolos em cada peça"
                          src="assets/images/logo.png"/>
                 </picture>
             </div>
             <div class="logo-text" style="margin-left: -40px;">
                 <picture>
-                    <source srcset="assets/images/Wikipedia_texto.svg" type="image/svg" width="20%"/>
+                    <source srcset="assets/images/Wikipedia_texto.svg" type="image/svg" width="50px"/>
                     <img alt="Texto da Wikipedia, escrito em letras minúsculas com a letra 'W' estilizada"
                          src="assets/images/Wikipedia_texto.svg"/>
                 </picture>
                 <picture>
-                    <source srcset="assets/images/Wikipedia_subtitulo.svg" type="image/svg" width="100%"/>
+                    <source srcset="assets/images/Wikipedia_subtitulo.svg" type="image/svg" width="50px"/>
                     <img alt="Subtítulo da Wikipedia, A enciclopédia Livre"
                          src="assets/images/Wikipedia_subtitulo.svg"/>
                 </picture>
